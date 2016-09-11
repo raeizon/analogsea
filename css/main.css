@@ -1,0 +1,114 @@
+
+body {
+
+	background-color: #00aaff;
+	font-family: "Arial Verdana", sans-serif;
+}
+
+
+img {
+    display: block;
+    margin: 50px auto;
+    height: 35px;
+}
+
+legend {
+	padding-top: 50px;
+}
+
+.signup-form {
+    margin: 0 auto;
+    width: 400px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 5px;
+    background: white;
+}
+
+.signup-form a:hover {
+	border-color: #00b300;
+}
+
+.signup-form legend {
+    text-align: center;
+    font-weight: 300;
+    color: #565656;
+    margin: 0 auto 45px;
+    font-size: 35px;
+    line-height: 38px;
+    letter-spacing: 0;
+}
+
+label {
+	font-weight: normal;
+	padding: 15px;
+	margin-left: 10px;
+	display: inline-block;
+	border-radius: 5px;
+}
+
+input {
+	width: 325px;
+	border: 1px black solid;
+	padding: 15px;
+	display: block;
+	border-radius: 5px;
+	margin-left: 20px;
+}
+
+.center {
+	text-align: center;
+}
+
+.signupbutton {
+	position: relative;
+	display: block;
+	border-radius: 5px;
+	top: 25px;
+	width: 360px;
+	color: white;
+	padding: 15px;
+	background-color: #4dff4d;
+	font-size: 20px;
+	border: none;
+	margin-left: 20px;
+
+}
+
+.signupbutton:hover {
+	    background-color: #0CB863;
+    -webkit-transition: background 0.1s;
+    -moz-transition: background 0.1s;
+    -o-transition: background 0.1s;
+    transition: background 0.1s;;
+}
+
+.forgotpwdbutton {
+	position: relative;
+	display: block;
+	
+	color: grey;
+
+
+}
+
+.footer {
+    text-align: center;
+    color: white;
+    margin: 20px auto;
+    font-weight: 600;s
+    border: 0;
+    padding: 0;
+}
+
+.forgotpwd {
+	padding: 25px;
+}
+
+.grey {
+	color: grey;
+}
+
+.white {
+	color: white;
+}
